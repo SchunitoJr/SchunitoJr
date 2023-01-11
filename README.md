@@ -10,7 +10,7 @@
 <!--- Body -->
 
 ### 👨‍🦰 About Me
-  I am <b>Javier Benito</b>. After finishing my <b>HND in Computing</b> at <b>ESAT</b>, Valencia, I am currently studying the last year of <b>BCs Computer Science for Games</b> at <b>Sheffield Hallam University</b>. I am focused on and passionate about <b>video games development</b> and <b>graphic programming</b>.
+  I am <b>Javier Benito</b>. After finishing my <b>HND in Computing</b> at <b>ESAT</b>, Valencia, I am currently studying the last year of <b>BSc Computer Science for Games</b> at <b>Sheffield Hallam University</b>. I am focused on and passionate about <b>video games development</b> and <b>graphic programming</b>.
 
 - 🌱 I’m currently learning DirectX 12 and Vulkan.
 - 📫 How to reach me: javier_ba.developer@hotmail.com
